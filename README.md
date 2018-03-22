@@ -5,6 +5,6 @@ Generate mail list from SisenMESS database.
 可以使用[PyInstaller](http://www.pyinstaller.org/)打包代码成exe.
 
 ## Getting Started
-1. 在数据库中执行 * GetTopWorkGroupName.sql *
-2. (可选)使用PyInstall打包代码，** pyinstaller main.py **
-3. 设置定时任务，** python main.py --help ** or ** main.exe --help ** 获取帮助
+1. 在数据库中执行 ` GetTopWorkGroupName.sql `
+2. (可选)使用PyInstall打包代码，` pyinstaller main.py `
+3. 设置定时任务，` python main.py --help ` or ` main.exe --help ` 获取帮助
